@@ -1,0 +1,19 @@
+{
+  "name": "node_test_lib",
+  "version": "0.0.1",
+  "description": "test node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryhuangb3d/node_test_lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryhuangb3d/node_test_lib/issues"
+  },
+  "homepage": "https://github.com/henryhuangb3d/node_test_lib#readme"
+}
